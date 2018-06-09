@@ -1,0 +1,13 @@
+{
+"companyName": "GaryPettie",
+"productName": "Oh No, My Patio!",
+"dataUrl": "Kongregate WebGL AutoGL.data.unityweb",
+"asmCodeUrl": "Kongregate WebGL AutoGL.asm.code.unityweb",
+"asmMemoryUrl": "Kongregate WebGL AutoGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Kongregate WebGL AutoGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
